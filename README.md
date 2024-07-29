@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Still to be added]
+- Live Site URL: [https://rui-martins23.github.io/product-preview-card-frontendmentor/]
 
 ## My process
 ### Built with
